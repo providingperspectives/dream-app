@@ -87,7 +87,7 @@
               "src/assets"
             ],
             "styles": [
-              "node-modules/bootsrap/dist/css/bootstrap-theme.min.css",
+              "node-modules/bootsrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
