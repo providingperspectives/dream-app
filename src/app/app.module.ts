@@ -22,5 +22,6 @@ import { WarningAlertComponent } from './warning-alert/warning-alert.component';
   ],
   providers: [],
   bootstrap: [AppComponent]
+
 })
 export class AppModule { }
